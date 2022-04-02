@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_Projekat_Otac/1.0.0": {
+        "runtime": {
+          "_Projekat_Otac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_Projekat_Otac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

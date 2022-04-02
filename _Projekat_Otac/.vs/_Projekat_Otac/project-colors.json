@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "673f7a38-f252-42a9-b7bb-c1f00ef57d22": {
+      "ProjectGuid": "673f7a38-f252-42a9-b7bb-c1f00ef57d22",
+      "DisplayName": "_Projekat_Otac",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

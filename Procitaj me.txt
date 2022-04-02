@@ -1,0 +1,9 @@
+Ova aplikacija ima namenu da pomogne ljudima i sve u svemu deci koja ,
+mozda zbog neke skorije nesrece, ili pak problema, nisu vise u mogucnosti da pricaju.
+Takodje ima je korisna i ljudima koji imaju ostecen sluh da se lakse sporazumevaju,
+bude li pak neka druga osoba takodje znala znakovni jezik.
+
+Uz interaktivne kvizove, nema ko ne bi zeleo da proba ovu aplikaciju, bilo da ima povod,
+ili ga samo jako zanima sta krije velicanstvena aplikacija _Projekat_Otac.
+
+Programersko okruzenje korisceno za izradu ovog programa je Visual Studio ,a jezik c#.
